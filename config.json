@@ -1,20 +1,20 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "BREV",
+    "singular": "BREV"
   },
-  "assoName": "La Ville à Vélo",
-  "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
+  "assoName": "Brest à Pied et à Vélo",
+  "assoLink": "https://bapav.org",
+  "slug": "brev",
   "center": [
-    4.8312188,
-    45.757198
+    -4.4859,
+    48.3905
   ],
   "zoom": 12,
   "colors": [
     {
       "line": 1,
-      "color": "#60A75B"
+      "color": "#4DADC9"
     },
     {
       "line": 2,
@@ -22,23 +22,23 @@
     },
     {
       "line": 3,
-      "color": "#3B7B64"
+      "color": "#EAAB50"
     },
     {
       "line": 4,
-      "color": "#DC8953"
-    },
-    {
-      "line": 5,
       "color": "#AF7392"
     },
     {
+      "line": 5,
+      "color": "#75BCAE"
+    },
+    {
       "line": 6,
-      "color": "#396083"
+      "color": "#DC8953"
     },
     {
       "line": 7,
-      "color": "#75BCAE"
+      "color": "#396083"
     },
     {
       "line": 8,
@@ -46,7 +46,7 @@
     },
     {
       "line": 9,
-      "color": "#EAAB50"
+      "color": "#3B7B64"
     },
     {
       "line": 10,
@@ -54,7 +54,7 @@
     },
     {
       "line": 11,
-      "color": "#4DADC9"
+      "color": "#60A75B"
     },
     {
       "line": 12,
@@ -63,82 +63,16 @@
   ],
   "transports": [
     {
-      "type": "métro",
+      "type": "tram",
       "line": "A",
-      "color": "#EF3899",
-      "link": "https://www.tcl.fr/lignes/metro-a"
+      "color": "#ef1452",
+      "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-tramway-a"
     },
     {
-      "type": "métro",
+      "type": "tram",
       "line": "B",
-      "color": "#007CC5",
-      "link": "https://www.tcl.fr/lignes/metro-b"
-    },
-    {
-      "type": "métro",
-      "line": "C",
-      "color": "#F99D1C",
-      "link": "https://www.tcl.fr/lignes/metro-c"
-    },
-    {
-      "type": "métro",
-      "line": "D",
-      "color": "#01AD4C",
-      "link": "https://www.tcl.fr/lignes/metro-d"
-    },
-    {
-      "type": "tram",
-      "line": "1",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t1"
-    },
-    {
-      "type": "tram",
-      "line": "2",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t2"
-    },
-    {
-      "type": "tram",
-      "line": "3",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t3"
-    },
-    {
-      "type": "tram",
-      "line": "4",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t4"
-    },
-    {
-      "type": "tram",
-      "line": "5",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t5"
-    },
-    {
-      "type": "tram",
-      "line": "6",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t6"
-    },
-    {
-      "type": "tram",
-      "line": "7",
-      "color": "#873E99",
-      "link": "https://www.tcl.fr/lignes/tramway-t7"
-    },
-    {
-      "type": "tram",
-      "line": "9",
-      "color": "#873E99",
-      "link": "https://destinations2026-sytral.fr/processes/t9"
-    },
-    {
-      "type": "tram",
-      "line": "10",
-      "color": "#873E99",
-      "link": "https://destinations2026-sytral.fr/processes/t10"
+      "color": "#00A5A6",
+      "link": "https://www.monreseaugrandit.fr/les-amenagements/le-tram-B"
     }
   ]
 }

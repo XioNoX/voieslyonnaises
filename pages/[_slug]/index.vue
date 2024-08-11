@@ -15,7 +15,8 @@
           </div>
         </h1>
       </template>
-      <h2>Aperçu</h2>
+      <h2>Aperçu <small>| Taol-lagad</small></h2>
+      
       <Overview :voie="voie" />
       <ContentRenderer :value="voie" />
     </ContentFrame>

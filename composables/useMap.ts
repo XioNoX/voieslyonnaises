@@ -523,12 +523,14 @@ export const useMap = () => {
     map.setLayoutProperty('perspectives', 'visibility', 'none');
     map.on('zoom', () => {
       const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
+      if (zoomLevel > 13) {
         map.setLayoutProperty('dangers', 'visibility', 'visible');
       } else {
         map.setLayoutProperty('dangers', 'visibility', 'none');
       }
     });
+    map.on('mouseenter', `dangers`, () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', `dangers`, () => (map.getCanvas().style.cursor = ''));
   }
 
   function plotInflators({ map, features }: { map: Map; features: Feature[] }) {
