@@ -16,7 +16,7 @@
             Ligne {{ voie.line }}
           </p>
           <p class="text-sm text-gray-500 truncate">
-            {{ voie.from }} → {{ voie.to }}
+            {{ voie.from }} ⇆ {{ voie.to }}
           </p>
         </NuxtLink>
       </div>
