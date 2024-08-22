@@ -39,14 +39,18 @@
               <span
                 class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl"
               >
-                <span class="block text-gray-900">Avancement des</span>
-                <span class="block text-lvv-blue-600">{{ getRevName() }}</span>
+                <span class="block text-gray-900">Le </span><span class="block text-lvv-blue-600">{{ getRevName() }}</span><span class="block text-gray-900">de Brest</span>
               </span>
             </h1>
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
+              Une initiative de l'association <strong>{{ assoName }}</strong> pour imaginer un réseau vélo <strong>sûr</strong> et <strong>efficace</strong> à l'échelle de la Métropole Brestoise.
+            </p>
+            <p
+              class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
+            >
+            <i>Kinnig ar gevredigezh <strong>{{ assoName }}</strong> evit ijinañ ur rouedad marc’h-houarn <strong>sur</strong> hag <strong>efedus</strong> e Meurger Brest.</i>
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
@@ -55,8 +59,8 @@
                 <NuxtLink to="/carte-interactive" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
                   Carte interactive
                 </NuxtLink>
-                <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
-                  Plan officiel
+                <NuxtLink to="/blog/reseau-express-velo" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
+                  Plus d'infos
                 </NuxtLink>
               </div>
             </div>
