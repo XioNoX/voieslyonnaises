@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
@@ -152,7 +152,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="https://www.bapav.org/wp-content/uploads/2020/04/cropped-Logo-BaPaV-Bleu-Noir.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
