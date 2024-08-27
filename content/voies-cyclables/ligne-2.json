@@ -509,7 +509,7 @@
         "name": "Route de la Tour",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/brev-2#???"
+        "link": "/brev-2#route-et-chemin-de-la-tour"
       },
       "geometry": {
         "coordinates": [
@@ -644,7 +644,7 @@
         "name": "Chemin de la Tour (est)",
         "status": "done",
         "type": "aucun",
-        "link": "/brev-2#???"
+        "link": "/brev-2#route-et-chemin-de-la-tour"
       },
       "geometry": {
         "coordinates": [
@@ -683,7 +683,7 @@
         "name": "Chemin de la Tour (ouest)",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/brev-2#???"
+        "link": "/brev-2#route-et-chemin-de-la-tour"
       },
       "geometry": {
         "coordinates": [
@@ -722,7 +722,7 @@
         "name": "Allée du chemin de Fer",
         "status": "done",
         "type": "voie-verte",
-        "link": "/brev-2#???"
+        "link": "/brev-2#allée-du-chemin-de-fer"
       },
       "geometry": {
         "coordinates": [

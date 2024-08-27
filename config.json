@@ -73,6 +73,18 @@
       "line": "B",
       "color": "#00A5A6",
       "link": "https://www.monreseaugrandit.fr/les-amenagements/le-tram-B"
+    },
+    {
+      "type": "BHNS",
+      "line": "D",
+      "color": "#F6B031",
+      "link": "https://www.monreseaugrandit.fr/les-amenagements/BHNS"
+    },
+    {
+      "type": "bus",
+      "line": "12",
+      "color": "#3789A5",
+      "link": "https://www.bibus.fr/se-deplacer/horaires-et-plans-des-lignes/lignes/ligne-bus-12"
     }
   ]
 }
