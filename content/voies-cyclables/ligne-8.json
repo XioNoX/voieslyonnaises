@@ -6,9 +6,9 @@
       "properties": {
         "line": 8,
         "name": "D3 - Route de Milizac",
-        "status": "unknown",
+        "status": "planned",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#d3-route-de-milizac"
       },
       "geometry": {
         "coordinates": [
@@ -188,7 +188,7 @@
         "name": "Allée des Noisetiers",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#allée-des-noisetiers"
       },
       "geometry": {
         "coordinates": [
@@ -340,7 +340,7 @@
         "name": "Rue de Lez-Huel",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#rue-de-lez-huel-et-chemin-du-rufa"
       },
       "geometry": {
         "coordinates": [
@@ -415,7 +415,7 @@
         "name": "Chemin du Rufa",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#rue-de-lez-huel-et-chemin-du-rufa"
       },
       "geometry": {
         "coordinates": [
@@ -474,7 +474,7 @@
         "name": "Rue François Coppé",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#rue-françois-coppé"
       },
       "geometry": {
         "coordinates": [
@@ -554,10 +554,10 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Pont de la Brasserie",
+        "name": "Viaduc de la Brasserie",
         "status": "done",
         "type": "voie-verte",
-        "link": "/brev-8#???"
+        "link": "/brev-8#viaduc-de-la-brasserie"
       },
       "geometry": {
         "coordinates": [
@@ -592,7 +592,7 @@
         "name": "Rue François Coppé (sud)",
         "status": "done",
         "type": "aucun",
-        "link": "/brev-8#???"
+        "link": "/brev-8"
       },
       "geometry": {
         "coordinates": [
@@ -635,7 +635,7 @@
         "name": "Rue Francis Poulenc",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8"
       },
       "geometry": {
         "coordinates": [
@@ -675,7 +675,7 @@
         "name": "Boulevard de l'Europe (Debussy-Robespierre)",
         "status": "unknown",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#boulevard-de-leurope"
       },
       "geometry": {
         "coordinates": [
@@ -698,7 +698,7 @@
         "name": "BHNS (Blum-Lesven)",
         "status": "wip",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#gare-de-brest-au-boulevard-de-leurope"
       },
       "geometry": {
         "coordinates": [
@@ -782,7 +782,7 @@
         "name": "Boulevard Montaigne (sud)",
         "status": "wip",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#gare-de-brest-au-boulevard-de-leurope"
       },
       "geometry": {
         "coordinates": [
@@ -805,7 +805,7 @@
         "name": "BHNS (Donnart-Glasgow)",
         "status": "wip",
         "type": "inconnu",
-        "link": "/brev-8#???"
+        "link": "/brev-8#gare-de-brest-au-boulevard-de-leurope"
       },
       "geometry": {
         "coordinates": [
@@ -881,7 +881,7 @@
         "name": "Clémenceau (Gare-Liberté)",
         "status": "wip",
         "type": "bilaterale",
-        "link": "/brev-8#???"
+        "link": "/brev-8#gare-de-brest-au-boulevard-de-leurope"
       },
       "geometry": {
         "coordinates": [

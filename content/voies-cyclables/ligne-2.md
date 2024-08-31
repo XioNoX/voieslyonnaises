@@ -16,10 +16,10 @@ De Liberté à Guilers, cette ligne serait une alternative vélo à la ligne de 
 
 Cette ligne fait partie des 3 lignes terminant à la gare de Brest, la section de 475m entre Liberté et la Gare serait partagée avec les lignes :line-link{line=8} et :line-link{line=9}.
 
-Cette section utiliserait les aménagements cyclable de prévu le long de la future ligne de :transport-link{type=tram line=B}.
+Cette section utiliserait les aménagements cyclables prévus le long de la future ligne de :transport-link{type=tram line=B}.
 
 ::banner{type="wip"}
-Les travaux du tram seront fini début 2026.
+Les travaux du tram seront finis début 2026.
 ::
 
 ::content-image
