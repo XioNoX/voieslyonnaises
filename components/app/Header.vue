@@ -113,12 +113,12 @@
             </transition>
           </Popover>
 
-          <!-- <NuxtLink
+          <NuxtLink
             to="/compteurs/velo"
             class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
             Compteurs
-          </NuxtLink> -->
+          </NuxtLink>
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
@@ -231,7 +231,7 @@ const navItems = [
   // { name: 'Plan officiel', path: '/plan-officiel' },
   // { name: 'Évolution du réseau', path: '/evolution' },
   { name: 'Services', path: 'https://umap.openstreetmap.fr/fr/map/services-velo-brest_1067200' },
-  // { name: 'Compteurs', path: '/compteurs/velo' }
+  { name: 'Compteurs', path: '/compteurs/velo' }
 ];
 
 const { data: voies } = await useAsyncData(() => {

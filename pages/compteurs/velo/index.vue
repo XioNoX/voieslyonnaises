@@ -6,10 +6,12 @@
     <div class="relative max-w-7xl mx-auto">
       <div class="text-center">
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
-          Suivi des compteurs vélo de l'agglomération lyonnaise
+          Suivi des {{ counters.length }} compteurs vélo de Brest Métropole
         </h2>
         <p class="mt-8 text-xl text-gray-500 leading-8">
-          Chaque début de mois, nous remontons les données de {{ counters.length }} compteurs à vélo de l'agglomération lyonnaise.
+          Expérimental.<br>
+          Nous sommes dans l'attente de Brest Métropole pour des données de comptage plus récentes.<br>
+          Nous avons donc extrapolé à partir d'un unique jour de comptage disponible sur le SIG de la Métropole.
         </p>
         <ClientOnly>
           <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />
