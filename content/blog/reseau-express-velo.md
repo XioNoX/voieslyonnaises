@@ -14,16 +14,16 @@ Plus grand frein a l'utilisation du vélo à Brest est le manque d'aménagements
 
 - Moins de bruit
 - Plus rapide
-- Réduction de la polution de l'air
-- Moins d'inégalités (circuler à vélo coute moins cher qu'en voiture)
-- Réduction des accidents
+- Moins de pollution
+- Moins d'inégalités (moins cher)
+- Moins d'accidents
 
 ## Comment ?
 Un réseau vélo structurant (un peu partout, mais pas dans chaque rues) à haut niveau de service (régulier, fiable, comme le tram), qui suit quelques simples régles :
 ### Il doit être sécurisé
 Un enfant doit pouvoir l'utiliser seul.
 
-Ce qui veut dire soit des pistes cyclables (ou voies-vertes) séparées des voitures, soit des rues avec très peu de trafic routier (par exemple impasses saux pétons/vélo, riverains uniquement).
+Ce qui veut dire soit des pistes cyclables (ou voies-vertes) séparées des voitures, soit des rues avec très peu de trafic routier (par exemple impasses saux pétons/vélo, riverains uniquement) aussi apppelées [vélorues](https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee).
 
 ::content-image
 ---
@@ -50,6 +50,15 @@ Efficacité veut aussi dire ne pas causer de conflits avec les piétons, donc é
 Des voies larges pour ne pas réster bloqué derriere un vélo (même cargo), les recommendations sont de 2,5m à 3,5m de large pour une piste unidirectionnelle, et 3 à 4m pour une bidirectionnelle. Ce qui permet egallement au réseau de transporter un grand nombre de personnes.
 
 Des détails comme les raccords de trottoir soignés, si ça secoue un peu pour un vélo normal, ça secoue déjà trop pour un enfant dans un vélo cargo.
+
+::content-image
+---
+imageUrl: https://pbs.twimg.com/media/E1wlvSbWUAEKHxs.png
+caption: Exemple de séparation chanfreinée entre piste cyclable et trottoir
+credit: CEREMA
+---
+::
+
 
 Les cyclistes doivent pouvoir rouler à une vitesse moyenne plus élevée que sur le reste du réseau cyclable. Une vitesse pouvant aller jusqu’à 20 km/h permet de se déplacer confortablement et rapidement. 
 
