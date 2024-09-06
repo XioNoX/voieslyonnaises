@@ -93,10 +93,10 @@ export const useStats = () => {
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
     const wipFeatures = features.filter(feature => feature.properties.status === 'wip');
     const plannedFeatures = features.filter(feature =>
-      ['planned', 'unknown', 'variante'].includes(feature.properties.status)
+      ['planned'].includes(feature.properties.status)
     );
     const postponedFeatures = features.filter(feature =>
-      ['postponed', 'variante-postponed'].includes(feature.properties.status)
+      ['postponed', 'variante-postponed',  'unknown', 'variante'].includes(feature.properties.status)
     );
 
     const totalDistance = getDistance({ features });
@@ -132,8 +132,8 @@ export const useStats = () => {
         class: 'text-black font-semibold'
       },
       postponed: {
-        name: 'Reportés',
-        namebzg: 'Daleet',
+        name: 'Souhaités',
+        namebzg: 'Da dizhout',
         distance: postponedDistance,
         percent: getPercent(postponedDistance),
         class: 'text-lvv-pink font-semibold'
