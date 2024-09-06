@@ -116,10 +116,10 @@
         <p>
           Ce site web est hébergé par
           <a
-            href="https://www.netlify.com/"
+            href="https://www.vercel.com/"
             target="_blank"
             rel="noopener noreferrer"
-          >Netlify</a>
+          >Vercel</a>
         </p>
         <h2>Protection des données à caractère personnel</h2>
         <p>Le présent site web respecte les règles suivantes :</p>
