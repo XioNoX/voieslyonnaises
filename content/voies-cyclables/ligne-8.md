@@ -76,7 +76,7 @@ Toutes ces routes sont déjà des itinéraires jalonés existants [(PDF)](https:
 Cette rue est déjà à faible trafic automobile [(PDF)](https://echanges.brest-metropole.fr/VIPDU72/dep/Comptage_vehicules/BH-Noisetiers_33-avr19.pdf
 ).
 
-Elle pourait donc répondre au cahier des charges d'un REV sans beaucoup d'efforts. Par exemple avec plus de signalisation, sécurisation des intersections, ou la limiter aux riverains pour eviter les quelques personnes qui l'utilisent comme "raccourcis". En bonus, plus de tranquilité pour les locaux et une route moins abimée.
+Elle pourait donc répondre au cahier des charges d'un REV sans beaucoup d'efforts. Par exemple avec plus de signalisation, sécurisation des intersections et la transformer en [vélorue](https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee). En bonus, plus de tranquilité pour les locaux et une route moins abimée.
 
 
 ### D3 - Route de Milizac
