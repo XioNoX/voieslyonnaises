@@ -3,14 +3,14 @@
     <LegendModal ref="legendModalComponent" />
     <FilterModal ref="filterModalComponent" @update="refreshFilters" />
     <div id="map" class="rounded-lg h-full w-full" />
-    <img
+    <!--<img
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
       src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
       width="75"
       height="75"
       :alt="`logo ${config.assoName}`"
-    >
+    >-->
   </div>
 </template>
 
