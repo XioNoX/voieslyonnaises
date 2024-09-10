@@ -25,7 +25,15 @@ Pour faire les choses bien, nous nous sommes appuyés sur un grand nombre d'él�
 
 #### De la documentation
 
-Technique (CEREMA), analyses et conseils (FUB, CVTCM), retours d'expériences de Métropoles (Lyon, Rennes) mais aussi ce qui se fait à l'[étranger](https://cyclehighways.eu/). Nous avons fouillés, lu et relu, cette grande quantité de documents déjà existante. Pourquoi ré-inventer la roue plutot que se dresser sur les épaules des géants ?
+Technique (CEREMA), analyses et conseils (FUB, CVTCM), études de déplacements, retours d'expériences de Métropoles (Lyon, Rennes) mais aussi ce qui se fait à l'[étranger](https://cyclehighways.eu/). Nous avons fouillés, lu et relu, cette grande quantité de documents déjà existante. Pourquoi ré-inventer la roue plutot que se dresser sur les épaules des géants ?
+
+::content-image
+---
+imageUrl: ../medias/flux_domicile_travail.png
+caption: 
+credit: diagnostic-mobilite.fr / Mobilités professionnelles (INSEE 2018)
+---
+::
 
 De là nous avons spéciallement extrait les caratéristiques d'un tel réseau ainsi que les pièges à éviter.
 
